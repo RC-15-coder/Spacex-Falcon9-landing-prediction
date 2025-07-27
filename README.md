@@ -4,7 +4,7 @@ This project tackles a real-world challenge faced by SpaceX: Can we predict whet
 
 Leveraging data from the SpaceX API and public sources, I built an end-to-end data science pipeline—from automated data collection and rigorous cleaning, to in-depth exploratory analysis, interactive mapping, dashboard creation, and machine learning modeling.
 
-- Unified, production-grade dataset combining API and web data on launches, sites, orbits, payloads, and recovery outcomes.  
+- Unified, analysis-ready dataset combining API and web data on launches, sites, orbits, payloads, and recovery outcomes.  
 - Interactive dashboards and geospatial maps enable rapid exploration of launch patterns and success rates by site, orbit, and payload.  
 - ML-powered predictions: Trained, tuned, and compared several classifiers—including Logistic Regression, SVM, KNN, and Decision Tree—to predict landing success with high accuracy.  
 - Actionable insights: Identified which launch sites and mission profiles drive the highest landing success, and discovered how payload mass and orbit impact outcomes.
