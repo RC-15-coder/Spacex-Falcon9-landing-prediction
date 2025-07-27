@@ -1,6 +1,15 @@
-# SpaceX Falcon 9 First Stage Landing Prediction
+# 🚀 SpaceX Falcon 9 First Stage Landing Prediction
 
-This project predicts the landing outcome (success/failure) of SpaceX Falcon 9 first-stage boosters. It covers real-world data collection, cleaning, EDA, interactive mapping, dashboarding, and ML classification models.
+This project tackles a real-world challenge faced by SpaceX: Can we predict whether a Falcon 9 first-stage booster will land successfully, before launch, using historical mission data?
+
+Leveraging data from the SpaceX API and public sources, I built an end-to-end data science pipeline—from automated data collection and rigorous cleaning, to in-depth exploratory analysis, interactive mapping, dashboard creation, and machine learning modeling.
+
+- Unified, production-grade dataset combining API and web data on launches, sites, orbits, payloads, and recovery outcomes.  
+- Interactive dashboards and geospatial maps enable rapid exploration of launch patterns and success rates by site, orbit, and payload.  
+- ML-powered predictions: Trained, tuned, and compared several classifiers—including Logistic Regression, SVM, KNN, and Decision Tree—to predict landing success with high accuracy.  
+- Actionable insights: Identified which launch sites and mission profiles drive the highest landing success, and discovered how payload mass and orbit impact outcomes.
+
+This capstone demonstrates my ability to solve end-to-end business problems with data engineering, analytics, visualization, and predictive modeling—all skills directly transferable to industry roles in data science and analytics.
 
 ## Repository Contents
 
