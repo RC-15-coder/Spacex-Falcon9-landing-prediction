@@ -44,9 +44,9 @@ This project predicts the landing outcome (success/failure) of SpaceX Falcon 9 f
 
 ## 📄 Full Project Report
 
-A comprehensive slide deck walks through every step of this capstone, from data collection and wrangling all the way through EDA, interactive maps, dashboards, and machine-learning results.  
+A comprehensive slide deck walks through every step of this project, from data collection and wrangling all the way through EDA, interactive maps, dashboards, and machine-learning results.  
 
-[👉 SpaceX Falcon 9 Landing Prediction – Full Report](./SpaceX_Capstone_Presentation.pdf)
+👉 [SpaceX Falcon 9 Landing Prediction – Full Report](SpaceX%20Falcon%209%20Landing%20Prediction%20%E2%80%93%20Full%20Report.pdf)
 
 The report includes:
 - Data collection & wrangling flow
