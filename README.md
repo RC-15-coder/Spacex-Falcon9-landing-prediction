@@ -28,7 +28,7 @@ This project predicts the landing outcome (success/failure) of SpaceX Falcon 9 f
 - **SpaceX_Machine Learning Prediction_Part_5.ipynb**  
   *Builds and evaluates machine learning models (Logistic Regression, SVM, Decision Tree, KNN) to predict landing success. Includes model comparison, accuracy, and confusion matrix.*
 
-  ## Project Highlights
+## Project Highlights
 
 - **End‑to‑end pipeline:** Data collection (SpaceX API + Wikipedia scraping) → data wrangling → EDA (plots & SQL) → interactive Folium maps → Plotly Dash dashboard → ML model training & evaluation.
 - Created a unified, clean dataset of Falcon 9 launches, outcomes, and site/orbit/payload details.
